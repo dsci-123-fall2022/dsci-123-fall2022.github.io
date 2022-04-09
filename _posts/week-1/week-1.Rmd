@@ -20,3 +20,4 @@ More information about this week's learning outcomes.
 
 # Lecture slides and assignments
 - [Slides for Week 1, Day 1: Introductory lecture](https://dsci-123-fall2022.github.io/lectures/week-1/w1-l1/w1-l1)
+- [Homework 1](https://dsci-123-fall2022.github.io/assignments/hw-1/hw-1)
